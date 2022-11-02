@@ -7,4 +7,13 @@ System.out.println("Welcome to GitHub");
 }
 
 
+public void add(){
+
+
+System.out.println("Addition");
+
+}
+
+
+
 }
